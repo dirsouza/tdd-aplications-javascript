@@ -1,2 +1,4 @@
 [submodule "watch-store"]
 	url = git@github.com:dirsouza/watch-store-tdd.git
+[submodule "Projeto1"]
+	url = git@github.com:dirsouza/javascript-tdd.git
